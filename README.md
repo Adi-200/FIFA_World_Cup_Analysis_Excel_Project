@@ -23,8 +23,14 @@ The given project consist of data set on **FIFA World Cup 1930-2022**. Based on 
    ![Pivot 3](https://github.com/Adi-200/FIFA-World-Cup-Analysis-Excel-/assets/92008726/ed25e45e-d262-4597-b682-b85b06123874)
 
 
-## DashBoard
+## FIFA World Cup DashBoard
 
 ![FIFA WorldCup DashBoard](https://github.com/Adi-200/FIFA-World-Cup-Analysis-Excel-/assets/92008726/8ea4982a-5cc0-47e3-a48e-7416ebff0ca7)
 
+![Screenshot 2024-05-23 212608](https://github.com/Adi-200/FIFA-World-Cup-Analysis-Excel-/assets/92008726/9acadc81-1d7c-44fc-9266-c4d8c771e125)
 
+![Screenshot 2024-05-23 212743](https://github.com/Adi-200/FIFA-World-Cup-Analysis-Excel-/assets/92008726/23cbd1f0-69dd-4bc5-a74c-72650084c483)
+
+## Skills
+
+Microsoft Excel
